@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="55"
+        android:title="@string/title_Exit"
+        app:showAsAction="always"
+        android:icon="@drawable/exit"
+
+        />
+</menu>
+
